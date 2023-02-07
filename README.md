@@ -13,8 +13,8 @@
 
 ## Exemplos dos testes
 
-### Múltiplos de 3 e 5
+### Múltiplos de 3 e 5 - [Acesse aqui](https://summultiplesms.netlify.app/)
 ![alt text](assets/Multiple.png)
 
-### Super Calculadora
+### Super Calculadora - [Acesse aqui](https://mycalculatorms.netlify.app/)
 ![alt text](assets/Calculator-complete.png)
