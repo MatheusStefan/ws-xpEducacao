@@ -1,0 +1,12 @@
+* {
+    background-color: grey;
+    color: white;
+}
+
+button {
+    size: 30px;
+}
+
+ul {
+    list-style: none;
+}
