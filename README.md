@@ -1,7 +1,7 @@
 # Repositório de estudos para o minicamp da XPEducação
 
-- [ ] Módulo 1 - Introdução à lógica de programação
-- [ ] Módulo 2 - Introdução à programação web
+- [x] Módulo 1 - Introdução à lógica de programação
+- [x] Módulo 2 - Introdução à programação web
 
 ## Objetivos
 - Módulo 1: Exercitar os conceitos de *Programação em JavaScript*
@@ -17,4 +17,4 @@
 ![alt text](assets/Multiple.png)
 
 ### Super Calculadora
-![alt text](assets/Calculator.png)
+![alt text](assets/Calculator-complete.png)
